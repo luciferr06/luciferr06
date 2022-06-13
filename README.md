@@ -2,6 +2,6 @@
 ---------------------------
 I'm a beginner in web developing who is interested in coding. Some technologies I enjoy working with include JavaScript, ReactJS & NodeJS.
 
-・🔭 👨🏻‍💻 🎥, Graphics Design
+・🔭 👨🏻‍💻 🎥, Graphics Designing
 
-Follow me on [Instagram 📸](https://www.imstagram.com/luciferr.06)
+Follow me on [Instagram 😇](https://www.imstagram.com/luciferr.06)
